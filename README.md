@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Create a multistage pipeline by using Azure Pipelines #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
